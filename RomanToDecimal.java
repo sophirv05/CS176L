@@ -1,5 +1,7 @@
 package cs176l;
 
+// Sophia Ramirez Velandia and Ivan Martinez
+
 import java.util.Scanner;
 
 public class RomanToDecimal {
